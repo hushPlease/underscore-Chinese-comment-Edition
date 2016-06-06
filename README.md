@@ -1,4 +1,4 @@
-# underscore-Chinese-comment-Edition-
+# underscore-Chinese-comment-Edition
 
                        __
                       /\ \                                                         __
