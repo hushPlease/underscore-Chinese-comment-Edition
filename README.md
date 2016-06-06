@@ -14,6 +14,8 @@
 
 **此版本为我所在小组理解与学习后，将源代码中所有注释译为中文的中文注释版本。如有任何意见、建议，欢迎于此项目中留言，或通过[gmail](hhhhhhhhhhhush.please@gmail.com)联系我。**
 
+**No commercial use, absolutely and certainly.**
+
 [Underscore](http://underscorejs.org/)文档
 
 For support and questions, please use the [gitter](https://gitter.im/jashkenas/underscore) channel or [stackoverflow](http://stackoverflow.com/search?q=underscore.js).
